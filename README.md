@@ -1,7 +1,7 @@
 # FUNDOS-IMOBILIARIOS
 PLANILHA DE INVESTIMENTO FUNDOS IMOBILIÁRIOS
 
-[Projeto - Planilha de investimento.xlsx](https://github.com/user-attachments/files/20541261/Projeto.-.Planilha.de.investimento.xlsx)
+[Projeto - Planilha de investimento.xlsx](https://github.com/user-attachments/files/20541350/Projeto.-.Planilha.de.investimento.xlsx)
 
 - Objetivo da Planilha: Um recurso para acompanhar e otimizar investimentos em fundos imobiliários, considerando diferentes perfis de risco e projeções futuras.
 - Configurações de Investimento: O usuário define parâmetros essenciais como salário, período de investimento e taxa de rendimento mensal, permitindo simulações personalizadas.
